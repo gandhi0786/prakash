@@ -6,7 +6,7 @@ public class Firstprogram {
 		
 		//data types
 		
-		int i=100; //integer // 32 bit 
+		int i=1000; //integer // 32 bit 
 		System.out.println(i);
 		 i=1000;
 		System.out.println(i);
